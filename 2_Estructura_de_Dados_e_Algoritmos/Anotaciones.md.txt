@@ -1,0 +1,8 @@
+#Estructura de Dados
+ - Vector
+ - Matriz
+ - Filha
+ - Pila
+ - Arbore
+ - Nash
+ - LIFO/FIFO
